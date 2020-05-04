@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>structure</title>
+</head>
+<body>
+<p lang="en-us"></p>
+<h1>this is the main heading</h1>
+<p>the passage related to the main heading will be written here</p>
+<h2>this is sub heading</h2>
+<p>the passage related to the sub heading will be written here</p>
+<h1>this is another sub heading</h1>
+<p>the passage related to the this sub heading will be written here</p>
+</body>
+</html>
