@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>text</title>
+</head>
+<body>
+<i><b>headings</b><i/>
+<h1>this is the main heading</h1>
+<h2>this is level2 heading..similarly we have six level of heading</h2>
+<p><i><b>paragraphs</b></i></p>
+<p>this the paragraph it contains a para</p>
+<p><i><b>subscript and super script</b></i></p>
+<p subscript is used write elementes like 3^2 and superscript is used to write elements like h2o</p>
+<p>3<sup>2</sup>is 9</p>
+<p>carbondioxide formula is co<sub>2</sub></p>
+<i><b>whitespace</b></i>
+</br>
+<p>br is used for line break</p>
+<i><b>quotations</i></b>
+<p><q>for quatations we will use q </q></p>
+<i><b>acronyms</b></i>
+<p><acronym title="Hypertext Markup Language">HTML</acronym>
+</body>
+</html>
