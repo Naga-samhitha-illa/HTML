@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>lists</title>
+</head>
+<body>
+<p>list is of three types 1.numbered lists 2.bullet lists 3.definition lists</p>
+<P>numbered list is basically a ordered_list as like shown below</p>
+<ol>
+<li>good</li>
+<li>things</li>
+<li>are good</li>
+</ol>
+<p>bullet list is unordered list </p>
+<ul>
+<li>good</li>
+<li>things</li>
+<li>are good</li>
+</ul>
+<p>definition list </p>
+<p>in definition list it contains definitipn term and definition</p>
+<dl>
+ <dt>procastinating</dt>
+ <dd>the action of delaying something</dd>
+</dl>
+<p>nested lists</p>
+<p>nested list means a list inside another list</p>
+<li>house
+   <li>windows</li>
+   <li>doors</li>
+   <li>fan etc.</li>
+</li>
+</body>
+</html>
