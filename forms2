@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>forms</title>
+</head>
+<body>
+<h1>form with radio dropdown list box</h1>
+<form action="http://www.hello.com">
+<p>select your choice:</p>
+<select name="devices">
+   <option value="movies">movies</option>
+   <option value="songs">songs</option>
+   <option value="series">series</option> 
+</select>
+</form>
+<h2>form with multiple select box</h1>
+<form action="http://www.hello.com">
+<p>select the game you like:</p>
+<select name="games"size="3" multiple="multiple">
+   <option value="carroms">carroms</option>
+   <option value="housie">housie</option>
+   <option value="basketball">basketball</option> 
+</select>
+</form>
+<p>in this way we can create different type of forms</p>
+</body>
+</html>
