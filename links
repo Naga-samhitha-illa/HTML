@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>LINKS</title>
+</head>
+<body>
+<h1>writing links:</h1>
+<p>example</p>
+<ul>
+<li><a href="http://bit.ly/T_O_S_S_PLUS">TOSS</a></li>
+</ul>
+<p>EMAIL link</p>
+<ul>
+<li><a href="mailto:nagasamhithailla">email samhitha</a></li>
+</ul>
+<p>opening links in a new window</p>
+<ul>
+<li><a href="http://bit.ly/T_O_S_S_PLUS"target="_blank">
+toss website</a>(open in new window)
+</body>
+</html>
