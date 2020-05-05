@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>TABLES</title>
+</head>
+<body>
+<h1><q>second SEM timetable for two days</q></h1>
+<table width="1000" cellpadding="10" cellspacing="5" border="2" bgcolor="#efefef">
+<tr>
+  <th></th>
+  <th>1(8.00-9.00)</th>
+  <th>2(9.00-10.00)</th>
+  <th>(10.00-10.15)</th>
+  <th>3(10.15-11.15)</th>
+   <th>(11.15-12.00)</th>
+   <th>4(12.00-1.00)</th>
+   <th>5(1.00-2.00)</th>
+   <th>6(2.00-3.00)</th>
+ </tr>
+<tr>
+  <th>mon</th>
+  <td>SEC1312</td>
+  <td>SCS1306</td>
+  <td rowspan="2">BREAK</td>
+  <td>SMT1205</td>
+  <td rowspan="2">LUNCH</td>
+  <td colspan="3">SEC4087</td>
+</tr>
+<tr>
+  <th>tue</th>
+  <td colspan="2">SMT1205</th>
+  <td>SEC1312</td>
+ <td>SCS1306</td>
+ <td colspan="2">SCS1206</td>
+</tr>
+</table>
+</head>
+</html>
+
+  
