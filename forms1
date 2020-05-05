@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>FORMS</title>
+</head>
+<body>
+<h1>form taking text as input</h1>
+<form action="http://www.hello.com">
+<p>password:
+   <input type="text" name="password" size="15" maxlength="30 " />
+</p>
+</form>
+<h2>creating form using text area</h2>
+<form action="http://www.hello.com">
+<p>why did you approached toss?</p>
+   <textarea name="comments" cols="20" rows="8">enter your text..</textarea>
+</form>
+<h1>form with radio button</h1>
+<form action="http://www.hello.com">
+<p>select your choice:
+<br/>
+   <input type="food" name="choice" value="pizza" checked="checked"/>
+   <input type="food" name="choice" value="burger"/>
+   <input type="food" name="choice" value="cake"/> 
+</p>
+</form>
+<h1>form with checkbox</h1>
+<form action="http://www.hello.com">
+<p>select your favourite phone:
+<br/>
+   <input type="checkbox" name="phone" value="iphone" checked="checked"/>iphone
+   <input type="checkbox" name="phone" value="samsung"/>samsung
+   <input type="checkbox" name="phone" value="honor"/> honor
+</p>
+</form>
+</body>
+</html>
